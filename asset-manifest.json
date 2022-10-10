@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-Challange18/static/css/main.a93a914c.css",
+    "main.js": "/FrontEndMentor-Challange18/static/js/main.5c371f04.js",
+    "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange18/static/js/787.a97cb00a.chunk.js",
+    "static/media/comment.jpg": "/FrontEndMentor-Challange18/static/media/comment.5ce4847df8ebf8dbf2dc.jpg",
+    "static/media/user-3.jpg": "/FrontEndMentor-Challange18/static/media/user-3.467933923627147cfd1c.jpg",
+    "static/media/user-2.jpg": "/FrontEndMentor-Challange18/static/media/user-2.57be438c8414952acf00.jpg",
+    "static/media/user-4.jpg": "/FrontEndMentor-Challange18/static/media/user-4.f2a499fc737fd331446b.jpg",
+    "static/media/user-7.jpg": "/FrontEndMentor-Challange18/static/media/user-7.62890db8936866d1b214.jpg",
+    "static/media/user-6.jpg": "/FrontEndMentor-Challange18/static/media/user-6.5fb5c71a3e08aff1c578.jpg",
+    "static/media/user-1.jpg": "/FrontEndMentor-Challange18/static/media/user-1.6657bace623efe2d960a.jpg",
+    "static/media/user-5.jpg": "/FrontEndMentor-Challange18/static/media/user-5.ec9b4c02750102e69236.jpg",
+    "index.html": "/FrontEndMentor-Challange18/index.html",
+    "main.a93a914c.css.map": "/FrontEndMentor-Challange18/static/css/main.a93a914c.css.map",
+    "main.5c371f04.js.map": "/FrontEndMentor-Challange18/static/js/main.5c371f04.js.map",
+    "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange18/static/js/787.a97cb00a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93a914c.css",
+    "static/js/main.5c371f04.js"
+  ]
+}
